@@ -1,4 +1,4 @@
-# medication_tracker
+# Medication Tracker
 
 App that will track medications and give notifications when a medicine should be taken.
 
